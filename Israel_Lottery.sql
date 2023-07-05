@@ -1,3 +1,4 @@
+-- (Link for my raw data: https://github.com/AmitLahat/Portfolio-DataAnalyst/blob/main/Israel_Lottery.csv)
 /*I want to know what could have happened if i submitted the most common number results
   from Israel's lottery for every draw (based on the last 5 years).
   Data taken from "Pais.co.il"  */
