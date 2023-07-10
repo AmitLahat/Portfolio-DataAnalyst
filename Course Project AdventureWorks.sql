@@ -9,7 +9,7 @@ select s.productid, p.Name, p.Color, p.ListPrice, p.Size
 from sales.salesorderdetail s join production.product p
 on s.ProductID=p.ProductID
 --
-/* run the following before the following exercises:
+/* run the following before the next exercises:
 update sales.customer set personid=customerid where customerid <=290  
 update sales.customer set personid=customerid+1700 where customerid >= 300 and customerid<=350  
 update sales.customer set personid=customerid+1700 where customerid >= 352 and customerid<=701 
